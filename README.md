@@ -1,9 +1,9 @@
-# My Best submit of the Data Science Challenge "Best French Data Scientist" :
+My Best submit of the "Best French Data Scientist" challenge:
 ======
 
 Hi !
 
-Here, you can find how I finish 20th of the Data Science Challenge "[Best French Data Scientist](https://www.datascience.net/fr/challenge/25/details)" 
+Here, you can find how I finish 20th (Score 28,01404%) of the Data Science Challenge "[Best French Data Scientist](https://www.datascience.net/fr/challenge/25/details)" 
 
 The goal of this challenge is the prediction of drug box prices.
 
